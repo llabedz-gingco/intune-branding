@@ -20,7 +20,7 @@
 # Define variables
 usebingwallpaper=false # Set to true to have script fetch wallpaper from Bing
 wallpaperurl="https://raw.githubusercontent.com/llabedz-gingco/intune-branding/main/background.jpg"
-wallpaperdir="/System/Library/gingco/"
+wallpaperdir="/Users/Shared/gingco"
 wallpaperfile="Wallpaper.jpg"
 log="/var/log/fetchdesktopwallpaper.log"
 
